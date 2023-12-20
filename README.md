@@ -1,9 +1,9 @@
 # Hello, this is Tanaka-
 This Repository showcases the multiple Azure projects that I have done over time.
 
-<h2>👨‍💻 Azuret Projects:</h2>
+<h2>👨‍💻 Azure Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Virtual Network Environment for Virtual Machines to communicate with each other</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
