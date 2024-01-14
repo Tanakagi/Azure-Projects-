@@ -4,14 +4,14 @@ This Repository showcases the multiple Azure projects that I have done over time
 <h2>👨‍💻 Azure Projects:</h2>
 
 - <b>Virtual Network Environment for Virtual Machines to communicate with each other</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Network Environment](https://github.com/Tanakagi/Virtual-Network-Environment-for-Virtual-Machines-to-communicate-with-each-other)
 - <b>Virtual Network Peering</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Network Peering](https://github.com/Tanakagi/Virtual-Network-Peering)
 - <b>Configuring Azure Point-to-site virtual private network (VPN)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Point-to-site](https://github.com/Tanakagi/Configuring-Azure-Point-to-site-virtual-private-network-VPN-)
 - <b> Azure File Share Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Azure File Share](https://github.com/Tanakagi/Azure-File-Share-Project)
 - <b>Azure backup Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Azure backup](https://github.com/Tanakagi/Azure-back-up-project)
   
 
